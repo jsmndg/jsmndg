@@ -20,7 +20,7 @@
 <p>
   <ul>
     <li>📱 Mobile app development with <strong>React Native</strong> and <strong>PHP Laravel</strong> at JLabs</li>
-    <li>⚙️  <strong>Workflow automation</strong> and <strong>report generation</strong> for Core Operations atUnionBank of the Philippines</li>
+    <li>⚙️  <strong>Workflow automation</strong> and <strong>report generation</strong> for Core Operations at UnionBank of the Philippines</li>
     <li>🧠 Undergraduate thesis on deep reinforcement learning for portfolio optimization using <strong>TD3 + Modern Hopfield Networks</strong></li>
   </ul>
 </p>
